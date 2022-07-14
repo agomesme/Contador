@@ -1,0 +1,22 @@
+body {
+    background: #deb887;
+    
+}
+
+section {
+    background: #d2b48c;
+    box-shadow: 3px 3px 10px;
+    border-radius: 15px;
+    width: 600px;
+    margin: auto;
+    padding: 15px;
+}
+
+h1 {
+    color: #a0522d;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
